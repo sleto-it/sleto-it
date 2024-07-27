@@ -1,24 +1,69 @@
-### Hi there 👋
+<p align="center">
+  <strong>> If you're building a database system, you'll want me in your team for the huge value I can provide <</strong>
+</p>
 
-Welcome to my GitHub profile!
+---
 
-This profile, `sleto-it`, includes my open source contributions from September 2017.
+### 👋 Hi there & welcome!
 
-My contributions before September 2017 can be found in the profile `santo-it` (direct links: [2017](https://github.com/santo-it?tab=overview&from=2017-12-01&to=2017-12-31), [2016](https://github.com/santo-it?tab=overview&from=2016-12-01&to=2016-12-31)).
+I am an **open-source database** user & committer / contributor with **20 years** of experience in GTM, Product and Engineering roles.
+- I worked at multiple open-source database vendors, including:
+  - **MySQL** at Oracle, **Neo4j**, **OrientDB**, **ArangoDB**, **Dgraph** Labs, **Percona**
+- I actively contribute improving products & user experience, ensuring **technical success** and **renewals**.
+      
+**Ask me about:** 
+- Databases **|** Data Platforms **|** Open Source **|** Documentation **|** GTM **|** Support **|** Success **|** Account Management **|** Operations
 
-💬 Ask me about: Databases | Data Platforms | Open Source | GTM | Support | Success | Account Management | Operations.
+### Open-source contributions
 
-👯 I am `sleto` on LinkedIn ([profile](https://www.linkedin.com/in/sleto/)) and [this](https://remotenodes.net/) is my website | You can hire me as a contractor via Upwork ([profile](https://www.upwork.com/freelancers/~017481452212ea99d9)).
+- This profile, `sleto-it`, includes my open-source contributions from September 2017.
+- My contributions before September 2017 can be found in the profile `santo-it` (direct links: [2017](https://github.com/santo-it?tab=overview&from=2017-12-01&to=2017-12-31), [2016](https://github.com/santo-it?tab=overview&from=2016-12-01&to=2016-12-31)).
 
-<!--
-**sleto-it/sleto-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Notable Contributions
 
-Here are some ideas to get you started:
+The following list is **partial**. The list of topics I can provide value, when partnering with a database vendors is much wider. 
+- Please check my [LinkedIn](https://www.linkedin.com/in/sleto/) profile and my [website](https://remotenodes.net/) for more information. Feel free to ping me for a call!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**2016 & 2017** - when part of the **OrientDB** team:
+   - Designed, developed & documented the "**Neo4j to OrientDB Importer**" ([repository](https://github.com/orientechnologies/orientdb-neo4j-importer)).
+     - Examples of databases that have been imported and then made available to the public as demo databases for OrientDB:
+       - [panama-papers-orientdb](https://github.com/santo-it/panama-papers-orientdb)
+       - [reactome-orientdb](https://github.com/santo-it/reactome-orientdb)
+   - Created the new "Travel Agency" [**demo database**](https://github.com/orientechnologies/orientdb/tree/3.0.x/distribution/src/main/resources) in OrientDB v3, to enhance learning of new users and showcase the capability of the product.
+     - Created multiple [tests](https://github.com/orientechnologies/orientdb/tree/3.0.x/distribution/src/test/java/com/orientechnologies/distribution/integration/demodb) as well as the [documentation](https://orientdb.com/docs/last/gettingstarted/demodb/index.html) which included many (graph) [query examples](https://orientdb.com/docs/last/gettingstarted/demodb/queries/index.html).
+     - Warning:
+       - File commited by other team members, but you can see my name , e.g. inside the test files.
+       - Due to the amount of years passed, things might not be online anymore or some links might be broken.
+
+**2017, 2018, 2019** - when part of the **ArangoDB** team:
+- Created and reviewed hundreds of doc-related PRs ([list](https://github.com/arangodb/arangodb/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it) of the PRs limited to the `arangodb/arangodb` repo).
+
+**2019 & 2020** - when part of the **Dgraph** team:
+- As usual, contributed to the documentation ([examples](https://github.com/dgraph-io/dgraph/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it)).
+
+**2020, 2021, 2022, 2023, 2024** - when part of the **Percona** team:
+- As usual, contributed to the documentation of multiple products.
+
+### Connecting & Partnering
+
+Please connect and say hi!
+
+- I am `sleto` on [LinkedIn](https://www.linkedin.com/in/sleto/), and [this](https://remotenodes.net/) is my website.
+
+You can **hire me** as a contractor, for instance via Upwork ([profile](https://www.upwork.com/freelancers/~017481452212ea99d9)). 
+- My recommendations are on ([LinkedIn](https://www.linkedin.com/in/sleto/)). Please ask me for additional **references**!
+
+Some roles I can be considered for:
+  - Technical Writer / Documentation Engineer / Developer Relations Engineer
+  - Senior Customer Success Manager / Senior Technical Account Manager
+  - Senior Technical Success Specialist / GTM Specialist
+  - Senior Support Engineer / Senior Support Escalation Specialist / Senior Pre-Sales Engineer
+  - Project Manager / Product Manager
+
+Since I can wear different hats, you can also consider me simply like a "**Open-Source Database Contributor & Advisor**".
+
+---
+
+<p align="center">
+  <strong>> Available for hire <</strong>
+</p>
