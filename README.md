@@ -41,8 +41,11 @@ The following list is **partial**. The list of topics I can provide value, when 
 **2019 & 2020** - when part of the **Dgraph** team:
 - As usual, contributed to the documentation ([examples](https://github.com/dgraph-io/dgraph/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it)).
 
-**2020, 2021, 2022, 2023, 2024** - when part of the **Percona** team:
+**2020, 2021, 2022, 2023, 2024 and onwards** - when part of the **Percona** team:
 - As usual, contributed to the documentation of multiple products.
+
+**2024 and onwards** - external contributions to **SurrealDB**:
+- Documentation [PRs](https://github.com/surrealdb/docs.surrealdb.com/pulls?q=is%3Apr+author%3Asleto-it) and [commits](https://github.com/surrealdb/docs.surrealdb.com/commits?author=sleto-it).
 
 ### Connecting & Partnering
 
