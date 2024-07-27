@@ -62,6 +62,16 @@ Some roles I can be considered for:
 
 Since I can wear different hats, you can also consider me simply like a "**Open-Source Database Contributor & Advisor**".
 
+### GitHub Stats
+
+#### Stats for sleto-it (current profile) - public repos only
+
+[![sleto-it's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleto-it&rank_icon=percentile&hide=stars,contribs,commits&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) 
+
+#### Stats for santo-it (old profile) - public repos only
+
+[![santo-it's GitHub stats](https://github-readme-stats.vercel.app/api?username=santo-it&rank_icon=percentile&hide=stars,contribs,commits&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) 
+
 ---
 
 <p align="center">
