@@ -30,10 +30,10 @@ The following list is **partial**. The list of topics I can provide value, when 
        - [panama-papers-orientdb](https://github.com/santo-it/panama-papers-orientdb)
        - [reactome-orientdb](https://github.com/santo-it/reactome-orientdb)
    - Created the new "Travel Agency" [**demo database**](https://github.com/orientechnologies/orientdb/tree/3.0.x/distribution/src/main/resources) in OrientDB v3, to enhance learning of new users and showcase the capability of the product.
-     - Created multiple [tests](https://github.com/orientechnologies/orientdb/tree/3.0.x/distribution/src/test/java/com/orientechnologies/distribution/integration/demodb) as well as the [documentation](https://orientdb.com/docs/last/gettingstarted/demodb/index.html) which included many (graph) [query examples](https://orientdb.com/docs/last/gettingstarted/demodb/queries/index.html).
-     - Warning:
-       - File commited by other team members, but you can see my name , e.g. inside the test files.
-       - Due to the amount of years passed, things might not be online anymore or some links might be broken.
+     - Created multiple [tests](https://github.com/orientechnologies/orientdb/tree/3.0.x/distribution/src/test/java/com/orientechnologies/distribution/integration/demodb) as well as the [documentation](https://orientdb.org/docs/3.2.x/gettingstarted/demodb/) which included **many** (graph) [query examples](https://orientdb.org/docs/3.2.x/gettingstarted/demodb/queries/).
+     - Warnings:
+       - Some files were commited by other team members (team effort) but you can see my name , e.g. inside the test files.
+       - Things might not be online anymore or some links might be broken today.
 
 **2017, 2018, 2019** - when part of the **ArangoDB** team:
 - Created and reviewed hundreds of doc-related PRs ([list](https://github.com/arangodb/arangodb/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it) of the PRs limited to the `arangodb/arangodb` repo).
