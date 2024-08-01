@@ -36,13 +36,22 @@ The following list is **partial**. The list of topics I can provide value, when 
        - Things might not be online anymore or some links might be broken today.
 
 **2017, 2018, 2019** - when part of the **ArangoDB** team:
-- Created and reviewed hundreds of doc-related PRs ([list](https://github.com/arangodb/arangodb/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it) of the PRs limited to the `arangodb/arangodb` repo).
+- Created and reviewed hundreds of doc-related PRs:
+  - `arangodb/arangodb` repo: list of my [PRs](https://github.com/arangodb/arangodb/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it), and all my [commits](https://github.com/arangodb/arangodb/commits?author=sleto-it).
+  - `arangodb-helper/arangodb` repo: list of my [PRs](https://github.com/arangodb-helper/arangodb/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it), and all my [commits](https://github.com/arangodb-helper/arangodb/commits?author=sleto-it).
+  - `arangodb/kube-arangodb` repo: list of my [PRs](https://github.com/arangodb/kube-arangodb/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it), and all my [commits](https://github.com/arangodb/kube-arangodb/commits?author=sleto-it).
+  - SDKs:
+    - `arangodb/arangojs` repo: list of my [PRs](https://github.com/arangodb/arangojs/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it), and all my [commits](https://github.com/arangodb/arangojs/commits?author=sleto-it).
+    - `arangodb/arangodb-java-driver` repo: list of my [PRs](https://github.com/arangodb/arangodb-java-driver/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it), and all my [commits](https://github.com/arangodb/arangodb-java-driver/commits?author=sleto-it).
 
 **2019 & 2020** - when part of the **Dgraph** team:
 - As usual, contributed to the documentation ([examples](https://github.com/dgraph-io/dgraph/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it)).
 
 **2020, 2021, 2022, 2023, 2024 and onwards** - when part of the **Percona** team:
-- As usual, contributed to the documentation of multiple products.
+- As usual, contributed to the documentation of multiple products, e.g.
+  - `percona/pmm-doc` repo: list of my [PRs](https://github.com/percona/pmm-doc/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it), and all my [commits](https://github.com/percona/pmm-doc/commits?author=sleto-it).
+  - `percona/pbm-docs` repo: list of my [PRs](https://github.com/percona/pbm-docs/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it), and all my [commits](https://github.com/percona/pbm-docs/commits?author=sleto-it).
+  - and more!
 
 **2024 and onwards** - external contributions to **SurrealDB**:
 - Documentation [PRs](https://github.com/surrealdb/docs.surrealdb.com/pulls?q=is%3Apr+author%3Asleto-it) and [commits](https://github.com/surrealdb/docs.surrealdb.com/commits?author=sleto-it).
