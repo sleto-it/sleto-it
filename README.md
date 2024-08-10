@@ -25,15 +25,16 @@ The following list is **partial**. The list of topics I can provide value, when 
 - Please check my [LinkedIn](https://www.linkedin.com/in/sleto/) profile and my [website](https://remotenodes.net/) for more information. Feel free to ping me for a call!
 
 **2016 & 2017** - when part of the **OrientDB** team:
-   - Designed, developed & documented the "**Neo4j to OrientDB Importer**" ([repository](https://github.com/orientechnologies/orientdb-neo4j-importer)).
-     - Examples of databases that have been imported and then made available to the public as demo databases for OrientDB:
-       - [panama-papers-orientdb](https://github.com/santo-it/panama-papers-orientdb)
-       - [reactome-orientdb](https://github.com/santo-it/reactome-orientdb)
-   - Created the new "Travel Agency" [**demo database**](https://github.com/orientechnologies/orientdb/tree/3.0.x/distribution/src/main/resources) in OrientDB v3, to enhance learning of new users and showcase the capability of the product.
-     - Created multiple [tests](https://github.com/orientechnologies/orientdb/tree/3.0.x/distribution/src/test/java/com/orientechnologies/distribution/integration/demodb) as well as the [documentation](https://orientdb.org/docs/3.2.x/gettingstarted/demodb/) which included **many** (graph) [query examples](https://orientdb.org/docs/3.2.x/gettingstarted/demodb/queries/).
-     - Warnings:
-       - Some files were commited by other team members (team effort) but you can see my name , e.g. inside the test files.
-       - Things might not be online anymore or some links might be broken today.
+- Designed, developed & documented the "**Neo4j to OrientDB Importer**" ([repository](https://github.com/orientechnologies/orientdb-neo4j-importer)).
+  - Examples of databases that have been imported and then made available to the public as demo databases for OrientDB:
+    - [panama-papers-orientdb](https://github.com/santo-it/panama-papers-orientdb)
+    - [reactome-orientdb](https://github.com/santo-it/reactome-orientdb)
+- Created the new "Travel Agency" [**demo database**](https://github.com/orientechnologies/orientdb/tree/3.0.x/distribution/src/main/resources) in OrientDB v3, to enhance learning of new users and showcase the capability of the product.
+  - Created multiple [tests](https://github.com/orientechnologies/orientdb/tree/3.0.x/distribution/src/test/java/com/orientechnologies/distribution/integration/demodb) as well as the [documentation](https://orientdb.org/docs/3.2.x/gettingstarted/demodb/) which included **many** (graph) [query examples](https://orientdb.org/docs/3.2.x/gettingstarted/demodb/queries/).
+  - Warnings:
+    - Some files were commited by other team members (team effort) but you can see my name , e.g. inside the test files.
+    - Things might not be online anymore or some links might be broken today.
+- Contributed to / refactored the Documentation.
 
 **2017, 2018, 2019** - when part of the **ArangoDB** team:
 - Created and reviewed hundreds of doc-related PRs:
@@ -45,16 +46,23 @@ The following list is **partial**. The list of topics I can provide value, when 
     - `arangodb/arangodb-java-driver` repo: list of my [PRs](https://github.com/arangodb/arangodb-java-driver/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it), and all my [commits](https://github.com/arangodb/arangodb-java-driver/commits?author=sleto-it).
 
 **2019 & 2020** - when part of the **Dgraph** team:
-- As usual, contributed to the documentation ([examples](https://github.com/dgraph-io/dgraph/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it)).
+- Contributed to the documentation:
+  - `dgraph-io/dgraph` repo: list of my [PRs](https://github.com/dgraph-io/dgraph/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it), and all my [commits](https://github.com/dgraph-io/dgraph/commits/main/?author=sleto-it).
 
 **2020, 2021, 2022, 2023, 2024 and onwards** - when part of the **Percona** team:
-- As usual, contributed to the documentation of multiple products, e.g.
+- Contributed to the documentation of multiple products, e.g.
   - `percona/pmm-doc` repo: list of my [PRs](https://github.com/percona/pmm-doc/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it), and all my [commits](https://github.com/percona/pmm-doc/commits?author=sleto-it).
   - `percona/pbm-docs` repo: list of my [PRs](https://github.com/percona/pbm-docs/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it), and all my [commits](https://github.com/percona/pbm-docs/commits?author=sleto-it).
-  - and more!
+  - `percona/distmongo-docs` repo: list of my [PRs](https://github.com/percona/distmongo-docs/pulls?q=is%3Apr+author%3Asleto-it+is%3Aclosed).
+  - `percona/pdmysql-docs` repo: list of my [PRs](https://github.com/percona/pdmysql-docs/pulls?q=is%3Apr+author%3Asleto-it+is%3Aclosed).
+  - `percona/psmdb-docs` repo: list of my [PRs](https://github.com/percona/psmdb-docs/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it).
+  - `percona/everest-doc` repo: list of my [PRs](https://github.com/percona/everest-doc/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it).
+- Product PMM (Percona Monitoring and Management):
+  - Contributed to the improvement of the dashbaords and of the alerts ([examples](https://github.com/percona/grafana-dashboards/pulls/sleto-it)). 
 
 **2024 and onwards** - external contributions to **SurrealDB**:
-- Documentation [PRs](https://github.com/surrealdb/docs.surrealdb.com/pulls?q=is%3Apr+author%3Asleto-it) and [commits](https://github.com/surrealdb/docs.surrealdb.com/commits?author=sleto-it).
+- Contributed to the documentation:
+  - `surrealdb/docs.surrealdb.com` repo: list of my [PRs](https://github.com/surrealdb/docs.surrealdb.com/pulls?q=is%3Apr+author%3Asleto-it), and all my [commits](https://github.com/surrealdb/docs.surrealdb.com/commits?author=sleto-it).
 
 ### Connecting & Partnering
 
