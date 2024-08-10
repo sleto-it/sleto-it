@@ -58,7 +58,7 @@ The following list is **partial**. The list of topics I can provide value, when 
   - `percona/psmdb-docs` repo: list of my [PRs](https://github.com/percona/psmdb-docs/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it).
   - `percona/everest-doc` repo: list of my [PRs](https://github.com/percona/everest-doc/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it).
 - Product PMM (Percona Monitoring and Management):
-  - Contributed to the improvement of the dashbaords and of the alerts ([examples](https://github.com/percona/grafana-dashboards/pulls/sleto-it)). 
+  - Contributed to the improvement of the dashboards and of the alerts ([examples](https://github.com/percona/grafana-dashboards/pulls/sleto-it)). 
 
 **2024 and onwards** - external contributions to **SurrealDB**:
 - Contributed to the documentation:
