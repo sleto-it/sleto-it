@@ -57,6 +57,10 @@ The following list is **partial**. The list of topics I can provide value, when 
   - `percona/pdmysql-docs` repo: list of my [PRs](https://github.com/percona/pdmysql-docs/pulls?q=is%3Apr+author%3Asleto-it+is%3Aclosed).
   - `percona/psmdb-docs` repo: list of my [PRs](https://github.com/percona/psmdb-docs/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it).
   - `percona/everest-doc` repo: list of my [PRs](https://github.com/percona/everest-doc/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it).
+  - `percona/percona-valkey-doc` repo: all my [commits](https://github.com/percona/percona-valkey-doc/commits?author=sleto-it).
+  - `percona/ivee-docs` repo: list of my [PRs](https://github.com/percona/ivee-docs/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it).
+  - `percona/docs-home` repo: list of my [PRs](https://github.com/percona/docs-home/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it).
+
 - Product PMM (Percona Monitoring and Management):
   - Contributed to the improvement of the dashboards and of the alerts ([examples](https://github.com/percona/grafana-dashboards/pulls/sleto-it)). 
 
