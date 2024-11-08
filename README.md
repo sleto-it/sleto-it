@@ -68,6 +68,10 @@ The following list is **partial**. The list of topics I can provide value, when 
 - Contributed to the documentation:
   - `surrealdb/docs.surrealdb.com` repo: list of my [PRs](https://github.com/surrealdb/docs.surrealdb.com/pulls?q=is%3Apr+author%3Asleto-it), and all my [commits](https://github.com/surrealdb/docs.surrealdb.com/commits?author=sleto-it).
 
+**2024 and onwards** - external contributions to **InfluxData**:
+- Contributed to the documentation:
+  - `influxdata/docs-v2` repo: list of my [PRs](https://github.com/influxdata/docs-v2/pulls?q=is%3Apr+author%3Asleto-it), and all my [commits](https://github.com/influxdata/docs-v2/commits?author=sleto-it).
+ 
 ### Connecting & Partnering
 
 Please connect and say hi!
