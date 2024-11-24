@@ -1,10 +1,10 @@
 <p align="center">
-  <strong>> If you're building a database system, you'll want me in your team for the huge value I can provide <</strong>
+  <strong>> :star: If you're building a database system :blue_heart:, please consider me for your team. I can provide huge value :pray: <</strong>
 </p>
 
 ---
 
-### 👋 Hi there & welcome!
+### :wave: Hi there & welcome!
 
 I am an **open-source database** user & committer / contributor with **20 years** of experience in GTM, Product and Engineering roles.
 - I worked at multiple open-source database vendors, including:
@@ -24,7 +24,7 @@ I am an **open-source database** user & committer / contributor with **20 years*
 The following list is **partial**. The list of topics I can provide value, when partnering with a database vendors is much wider. 
 - Please check my [LinkedIn](https://www.linkedin.com/in/sleto/) profile and my [website](https://remotenodes.net/) for more information. Feel free to ping me for a call!
 
-**2016 & 2017** - when part of the **OrientDB** team:
+:heavy_check_mark: **2016 & 2017** - when part of the **OrientDB** team:
 - Designed, developed & documented the "**Neo4j to OrientDB Importer**" ([repository](https://github.com/orientechnologies/orientdb-neo4j-importer)).
   - Examples of databases that have been imported and then made available to the public as demo databases for OrientDB:
     - [panama-papers-orientdb](https://github.com/santo-it/panama-papers-orientdb)
@@ -36,7 +36,7 @@ The following list is **partial**. The list of topics I can provide value, when 
     - Things might not be online anymore or some links might be broken today.
 - Contributed to / refactored the Documentation.
 
-**2017, 2018, 2019** - when part of the **ArangoDB** team:
+:heavy_check_mark: **2017, 2018, 2019** - when part of the **ArangoDB** team:
 - Created and reviewed hundreds of doc-related PRs:
   - `arangodb/arangodb` repo: list of my [PRs](https://github.com/arangodb/arangodb/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it), and all my [commits](https://github.com/arangodb/arangodb/commits?author=sleto-it).
   - `arangodb-helper/arangodb` repo: list of my [PRs](https://github.com/arangodb-helper/arangodb/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it), and all my [commits](https://github.com/arangodb-helper/arangodb/commits?author=sleto-it).
@@ -45,11 +45,11 @@ The following list is **partial**. The list of topics I can provide value, when 
     - `arangodb/arangojs` repo: list of my [PRs](https://github.com/arangodb/arangojs/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it), and all my [commits](https://github.com/arangodb/arangojs/commits?author=sleto-it).
     - `arangodb/arangodb-java-driver` repo: list of my [PRs](https://github.com/arangodb/arangodb-java-driver/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it), and all my [commits](https://github.com/arangodb/arangodb-java-driver/commits?author=sleto-it).
 
-**2019 & 2020** - when part of the **Dgraph** team:
+:heavy_check_mark: **2019 & 2020** - when part of the **Dgraph** team:
 - Contributed to the documentation:
   - `dgraph-io/dgraph` repo: list of my [PRs](https://github.com/dgraph-io/dgraph/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it), and all my [commits](https://github.com/dgraph-io/dgraph/commits/main/?author=sleto-it).
 
-**2020, 2021, 2022, 2023, 2024 and onwards** - when part of the **Percona** team:
+:heavy_check_mark: **2020, 2021, 2022, 2023, 2024 and onwards** - when part of the **Percona** team:
 - Contributed to the documentation of multiple products, e.g.
   - `percona/pmm-doc` repo: list of my [PRs](https://github.com/percona/pmm-doc/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it), and all my [commits](https://github.com/percona/pmm-doc/commits?author=sleto-it).
   - `percona/pbm-docs` repo: list of my [PRs](https://github.com/percona/pbm-docs/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it), and all my [commits](https://github.com/percona/pbm-docs/commits?author=sleto-it).
@@ -64,11 +64,11 @@ The following list is **partial**. The list of topics I can provide value, when 
 - Product PMM (Percona Monitoring and Management):
   - Contributed to the improvement of the dashboards and of the alerts ([examples](https://github.com/percona/grafana-dashboards/pulls/sleto-it)). 
 
-**2024 and onwards** - external contributions to **SurrealDB**:
+:heavy_check_mark: **2024 and onwards** - external contributions to **SurrealDB**:
 - Contributed to the documentation:
   - `surrealdb/docs.surrealdb.com` repo: list of my [PRs](https://github.com/surrealdb/docs.surrealdb.com/pulls?q=is%3Apr+author%3Asleto-it), and all my [commits](https://github.com/surrealdb/docs.surrealdb.com/commits?author=sleto-it).
 
-**2024 and onwards** - external contributions to **InfluxData**:
+:heavy_check_mark: **2024 and onwards** - external contributions to **InfluxData**:
 - Contributed to the documentation:
   - `influxdata/docs-v2` repo: list of my [PRs](https://github.com/influxdata/docs-v2/pulls?q=is%3Apr+author%3Asleto-it), and all my [commits](https://github.com/influxdata/docs-v2/commits?author=sleto-it).
  
@@ -103,5 +103,5 @@ Since I can wear different hats, you can also consider me simply like a "**Open-
 ---
 
 <p align="center">
-  <strong>> Available for hire <</strong>
+  <strong>> Available :green_circle: for hire <</strong>
 </p>
