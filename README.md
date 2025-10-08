@@ -31,7 +31,7 @@ The following list is **partial**. The list of topics I can provide value, when 
     - [reactome-orientdb](https://github.com/santo-it/reactome-orientdb)
 - Created the new "Travel Agency" [**demo database**](https://github.com/orientechnologies/orientdb/tree/3.0.x/distribution/src/main/resources) in OrientDB v3, to enhance learning of new users and showcase the capability of the product.
   - Created multiple [tests](https://github.com/orientechnologies/orientdb/tree/3.0.x/distribution/src/test/java/com/orientechnologies/distribution/integration/demodb) as well as the [documentation](https://orientdb.org/docs/3.2.x/gettingstarted/demodb/) which included **many** (graph) [query examples](https://orientdb.org/docs/3.2.x/gettingstarted/demodb/queries/).
-  - Warnings:
+  - Note:
     - Some files were commited by other team members (team effort) but you can see my name , e.g. inside the test files.
     - Things might not be online anymore or some links might be broken today.
 - Contributed to / refactored the Documentation.
@@ -49,8 +49,9 @@ The following list is **partial**. The list of topics I can provide value, when 
 - Contributed to the documentation:
   - `dgraph-io/dgraph` repo: list of my [PRs](https://github.com/dgraph-io/dgraph/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it), and all my [commits](https://github.com/dgraph-io/dgraph/commits/main/?author=sleto-it).
 
-:heavy_check_mark: **2020, 2021, 2022, 2023, 2024 and onwards** - when part of the **Percona** team:
+:heavy_check_mark: **2020, 2021, 2022, 2023, 2024, 2025** - when part of the **Percona** team:
 - Contributed to the documentation of multiple products, e.g.
+  - `percona/pmm` repo: list of my [PRs](https://github.com/percona/pmm/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it), and all my [commits](https://github.com/percona/pmm/commits?author=sleto-it).
   - `percona/pmm-doc` repo: list of my [PRs](https://github.com/percona/pmm-doc/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it), and all my [commits](https://github.com/percona/pmm-doc/commits?author=sleto-it).
   - `percona/pbm-docs` repo: list of my [PRs](https://github.com/percona/pbm-docs/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it), and all my [commits](https://github.com/percona/pbm-docs/commits?author=sleto-it).
   - `percona/distmongo-docs` repo: list of my [PRs](https://github.com/percona/distmongo-docs/pulls?q=is%3Apr+author%3Asleto-it+is%3Aclosed).
@@ -64,15 +65,15 @@ The following list is **partial**. The list of topics I can provide value, when 
 - Product PMM (Percona Monitoring and Management):
   - Contributed to the improvement of the dashboards and of the alerts ([examples](https://github.com/percona/grafana-dashboards/pulls/sleto-it)). 
 
-:heavy_check_mark: **2024 and onwards** - external contributions to **SurrealDB**:
+:heavy_check_mark: **2024s** - external contributions to **SurrealDB**:
 - Contributed to the documentation:
   - `surrealdb/docs.surrealdb.com` repo: list of my [PRs](https://github.com/surrealdb/docs.surrealdb.com/pulls?q=is%3Apr+author%3Asleto-it), and all my [commits](https://github.com/surrealdb/docs.surrealdb.com/commits?author=sleto-it).
 
-:heavy_check_mark: **2024 and onwards** - external contributions to **InfluxData**:
+:heavy_check_mark: **2024** - external contributions to **InfluxData**:
 - Contributed to the documentation:
   - `influxdata/docs-v2` repo: list of my [PRs](https://github.com/influxdata/docs-v2/pulls?q=is%3Apr+author%3Asleto-it), and all my [commits](https://github.com/influxdata/docs-v2/commits?author=sleto-it).
 
-:heavy_check_mark: **2024 and onwards** - external contributions to **QuestDB**:
+:heavy_check_mark: **2024** - external contributions to **QuestDB**:
 - Contributed to the documentation:
   - `questdb/documentation` repo: list of my [PRs](https://github.com/questdb/documentation/pulls?q=is%3Apr+author%3Asleto-it), and all my [commits](https://github.com/questdb/documentation/commits?author=sleto-it).
  
@@ -82,7 +83,7 @@ Please connect and say hi!
 
 - I am `sleto` on [LinkedIn](https://www.linkedin.com/in/sleto/), and [this](https://remotenodes.net/) is my website.
 
-You can **hire me** as a contractor, for instance via Upwork ([profile](https://www.upwork.com/freelancers/~017481452212ea99d9)). 
+You can **hire me** as a contractor or as a regular employee. 
 - My recommendations are on ([LinkedIn](https://www.linkedin.com/in/sleto/)). Please ask me for additional **references**!
 
 Some roles I can be considered for:
