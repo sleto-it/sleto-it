@@ -63,7 +63,7 @@ The following list is **partial**. The list of topics I can provide value, when 
   - `percona/docs-home` repo: list of my [PRs](https://github.com/percona/docs-home/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it).
 
 - Product PMM (Percona Monitoring and Management):
-  - Contributed to the improvement of the dashboards and of the alerts ([examples](https://github.com/percona/grafana-dashboards/pulls/sleto-it)). 
+  - Contributed to the improvement of the dashboards and of the alerts ([examples](https://github.com/percona/grafana-dashboards/pulls?q=is%3Apr+is%3Aclosed+author%3Asleto-it)). 
 
 :heavy_check_mark: **2024s** - external contributions to **SurrealDB**:
 - Contributed to the documentation:
